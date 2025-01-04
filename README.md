@@ -25,3 +25,5 @@ Lista de Material Escolar<br>
 .1 dicionário<br>
 .1 pincel n.14<br>
 .1 pasta 20mm<br>
+
+![alt text](<Captura de tela 2025-01-04 203447.png>)
