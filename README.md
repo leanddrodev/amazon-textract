@@ -26,4 +26,5 @@ Lista de Material Escolar<br>
 .1 pincel n.14<br>
 .1 pasta 20mm<br>
 
-![alt text](<Captura de tela 2025-01-04 203447.png>)
+![Captura de tela 2025-01-04 203447](https://github.com/user-attachments/assets/ca54ff1a-4fc9-42b0-8aa3-0fa9ee997964)
+
