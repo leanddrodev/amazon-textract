@@ -10,18 +10,18 @@ O Amazon Textract permite que você adicione detecção e análise de texto de d
 
 # Lista Escolar - Saída em Texto
 
-Lista de Material Escolar
-.3 rolos de fita crepe
-.1 bloco de canson A4
-.1 fita adesiva
-.5 folhas de cartolina 
-.3 placas de EVA
-.1 EVA com gliter
-.5 papel colorset
-.1 caneta permanente
-.1 pacote palito de sorvete
-.4 papel cartão
-.1 kit leoni n. 1
-.1 dicionário
-.1 pincel n.14
-.1 pasta 20mm
+Lista de Material Escolar<br>
+.3 rolos de fita crepe<br>
+.1 bloco de canson A4<br>
+.1 fita adesiva<br>
+.5 folhas de cartolina<br> 
+.3 placas de EVA<br>
+.1 EVA com gliter<br>
+.5 papel colorset<br>
+.1 caneta permanente<br>
+.1 pacote palito de sorvete<br>
+.4 papel cartão<br>
+.1 kit leoni n. 1<br>
+.1 dicionário<br>
+.1 pincel n.14<br>
+.1 pasta 20mm<br>
